@@ -5,7 +5,7 @@
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | Name | Role | Email |
 |------|------|-------|
