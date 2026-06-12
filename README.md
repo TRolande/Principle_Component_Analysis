@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project implements **Principal Component Analysis (PCA) from scratch** using NumPy only on an African Life Expectancy dataset. The goal is to reduce a 19-feature matrix to a lower-dimensional space while retaining as much variance as possible, and to interpret what is gained and lost in that reduction.
 
